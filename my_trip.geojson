@@ -44,6 +44,36 @@
         "Location": "Rishikesh, India",
         "Date": "2016-08-08"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.2676116,
+            30.0869281
+          ],
+          [
+            77.7064137,
+            28.9844618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7064137,
+          28.9844618
+        ]
+      },
+      "properties": {
+        "Location": "Meerut, India",
+        "Date": "2016-12-06"
+      }
     }
   ]
 }
