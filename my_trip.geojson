@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02968369999999,
+          26.7341201
+        ]
+      },
+      "properties": {
+        "Location": "Hindaun, India",
+        "Date": "2017-07-23"
+      }
+    }
+  ]
+}
