@@ -14,6 +14,36 @@
         "Location": "Hindaun, India",
         "Date": "2017-07-23"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.02968369999999,
+            26.7341201
+          ],
+          [
+            78.2676116,
+            30.0869281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2676116,
+          30.0869281
+        ]
+      },
+      "properties": {
+        "Location": "Rishikesh, India",
+        "Date": "2016-08-08"
+      }
     }
   ]
 }
