@@ -74,6 +74,36 @@
         "Location": "Meerut, India",
         "Date": "2016-12-06"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.7064137,
+            28.9844618
+          ],
+          [
+            76.8342957,
+            17.329731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8342957,
+          17.329731
+        ]
+      },
+      "properties": {
+        "Location": "Gulbarga, India",
+        "Date": "2016-11-02"
+      }
     }
   ]
 }
